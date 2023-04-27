@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🔭 I’m currently working on [NFT Auctin marketPlace](https://zia-pro.netlify.app/)
+- 🔭 I’m currently working on [NFT Auction marketPlace](https://zia-pro.netlify.app/)
 
 - 🌱 I’m currently learning **React or Next.js**
 
