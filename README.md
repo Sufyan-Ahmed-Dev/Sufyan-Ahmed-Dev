@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufyan-ahmed-dev" alt="sufyan-ahmed-dev" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sufyab_web_work" target="blank"><img src="https://img.shields.io/twitter/follow/sufyab_web_work?logo=twitter&style=for-the-badge" alt="sufyab_web_work" /></a> </p>
+
 - 🔭 I’m currently working on [NFT Auctin marketPlace](https://zia-pro.netlify.app/)
 
 - 🌱 I’m currently learning **React or Next.js**
@@ -19,8 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sufyab_web_work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufyab_web_work" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sufyan-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyan-ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/sufyan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sufyan ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/sufyan____ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sufyan____ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
