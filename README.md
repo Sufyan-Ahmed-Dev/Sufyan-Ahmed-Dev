@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
-<h3 align="center">A passionate Full-Stack Blockchain developer</h3>
+<h3 align="center">A passionate ChatBot developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyan-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan-ahmed-dev" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sufyab_web_work" target="blank"><img src="https://img.shields.io/twitter/follow/sufyab_web_work?logo=twitter&style=for-the-badge" alt="sufyab_web_work" /></a> </p>
 
-- 🔭 I’m currently working on [NFT Auctin marketPlace](https://zia-pro.netlify.app/)
+- 🔭 I’m currently working on [chatBot development](https://zia-pro.netlify.app/)
 
-- 🌱 I’m currently learning **React or Next.js**
+- 🌱 I’m currently learning **Daigflow & OpenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sufyan-Ahmed-Dev?tab=repositories](https://github.com/Sufyan-Ahmed-Dev?tab=repositories)
 
-- 💬 Ask me about **Blockchain integeration or React**
+- 💬 Ask me about **chatBot & MERN**
 
 - 📫 How to reach me **sufiyan033130@gmail.com**
 
