@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Website developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyan-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan-ahmed-dev" /> </p>
 
